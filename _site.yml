@@ -1,4 +1,13 @@
+name: "our-website"
+navbar:
+  title: "Our Collaborative Website"
 output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    toc: true 
+    toc_float: true 
 navbar:
   left:
     - text: "Home"
@@ -7,3 +16,4 @@ navbar:
       href: sophia.html
     - text: "Lindsey"
       href: Lindsey.html  
+      

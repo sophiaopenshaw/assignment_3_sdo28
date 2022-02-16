@@ -11,6 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Lindsey Forg & Sophia Openshaw's joint website!
 
+---
+title: "Table of Contents"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+---
 Our github accounts:
 
 [Lindsey's](https://github.com/lindseyforg)
