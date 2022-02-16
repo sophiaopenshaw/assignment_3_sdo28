@@ -1,0 +1,18 @@
+---
+title: "index.Rmd"
+author: "Sophia"
+date: "2/16/2022"
+output: html_document
+---
+
+
+
+## Lindsey Forg & Sophia Openshaw's joint website!
+
+Our github accounts:
+
+[Lindsey's](https://github.com/lindseyforg)
+
+[Sophia's](https://github.com/sophiaopenshaw)
+
+![We <3 Blue-Footed Boobies](C:\Users\sophi\OneDrive\Desktop\blue-footed-boobies.jpg)
