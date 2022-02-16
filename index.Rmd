@@ -1,5 +1,5 @@
 ---
-title: "index.Rmd"
+title: "Homepage"
 author: "Sophia"
 date: "2/16/2022"
 output: html_document
@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Lindsey Forg & Sophia Openshaw's joint website!
 
 ---
-title: "Table of Contents"
+title: "Our collaborative website"
 output:
   html_document:
     toc: true
