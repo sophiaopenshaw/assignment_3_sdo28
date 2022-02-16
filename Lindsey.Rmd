@@ -1,0 +1,14 @@
+---
+title: "Lindsey"
+author: "Lindsey Forg"
+date: "2/16/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I study Black-throated blue warblers
+* I play viola
+* I am a Spanish tutor 
